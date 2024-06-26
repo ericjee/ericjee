@@ -14,9 +14,10 @@ I'm currently working at a SaaS startup that's looking to shake up the ESG info 
 
 
 ### Certifications
-- [![My Certification](https://images.credly.com/size/100x100/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png)](https://www.credly.com/badges/5edb10f9-1c11-4a8b-92e7-a7f58b085fda/public_url)
-
-
+<p>
+  <img src="https://images.credly.com/size/100x100/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" width="100" height="100" />
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/107193483" width="100" height="100" />
+</p>
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/eric-shen-96bbb6148/)
