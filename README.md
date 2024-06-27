@@ -15,8 +15,12 @@ I'm currently working at a SaaS startup that's looking to shake up the ESG info 
 
 ### Certifications
 <p>
-  <img src="https://images.credly.com/size/100x100/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" width="100" height="100" />
+  <a href="https://www.credly.com/badges/5edb10f9-1c11-4a8b-92e7-a7f58b085fda/public_url">
+  <img src="https://images.credly.com/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" width="100" height="100" />
+  </a>
+  <a href="https://credentials.databricks.com/8269edfe-95d1-4df5-b25d-6ff8e4a03fd3">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/107193483" width="100" height="100" />
+  </a>
 </p>
 
 ## Contact Me
